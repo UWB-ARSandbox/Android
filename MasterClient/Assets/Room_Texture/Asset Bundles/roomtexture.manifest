@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1976673886
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 86912b7e2f14d519a8fa984024327a7f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6e524609455c7cfb29b5bab3f5d3ec7c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+Assets:
+- Assets/Room_Texture/TextureData/Room11.png
+- Assets/Room_Texture/TextureData/Room10.png
+- Assets/Room_Texture/TextureData/Room3.png
+- Assets/Room_Texture/TextureData/Room0.png
+- Assets/Room_Texture/TextureData/SupplementaryInfo.txt
+- Assets/Room_Texture/TextureData/RoomMesh.txt
+- Assets/Room_Texture/TextureData/Room4.png
+- Assets/Room_Texture/TextureData/Room7.png
+- Assets/Room_Texture/TextureData/Room5.png
+- Assets/Room_Texture/TextureData/Room6.png
+- Assets/Room_Texture/TextureData/Room9.png
+- Assets/Room_Texture/TextureData/Room1.png
+- Assets/Room_Texture/TextureData/Room8.png
+- Assets/Room_Texture/TextureData/Room2.png
+- Assets/Room_Texture/TextureData/RoomMatrices.txt
+Dependencies: []
